@@ -1,7 +1,7 @@
-# Totally useless facts app
+# Totally useless facts
 
 ## About
-Welcome to Totally useless facts app!
+Welcome to Totally useless facts!
 
 This light, fun application contains various useless facts (WARNING: you might get addicted to reading them). Do you know cow magnets protect cows from harmful ferrous materials they may inadvertently ingest while grazing? 
 
