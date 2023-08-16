@@ -7,7 +7,7 @@ This light, fun application contains various useless facts (WARNING: you might g
 
 Take a look at it and upload your first fact! :vulcan_salute: :eyes:
 
-Project page: [https://useless-facts-you-just-have-to-know.netlify.app/]
+Project page: [https://useless-facts-you-just-have-to-know.netlify.app/] 
 
 ## Tech-stack
 * Frontend: React
